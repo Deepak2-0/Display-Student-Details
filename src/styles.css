@@ -1,0 +1,40 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: #e84a5f;
+}
+.top {
+  background-color: #f9f7d9;
+  font-size: 35px;
+  padding: 15px 0;
+}
+.nameList {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  /* border: 1px solid black; */
+  text-align: center;
+  background-color: #cff6cf;
+}
+.data {
+  display: flex;
+  width: 700px;
+  text-align: center;
+  margin: auto 20%;
+}
+.detail {
+  width: 500px;
+  text-align: center;
+  padding-top: auto;
+  border: 1px solid #cfe5cf;
+  background-color: #e5cfe5;
+}
+.name {
+  border: 1px solid #cfe5cf;
+  cursor: pointer;
+}
+.searchBar {
+  font-size: 25px;
+  border-radius: 10px;
+  margin: 1%;
+}
